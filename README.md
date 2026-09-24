@@ -17,5 +17,4 @@ I'm interested in applied machine learning — from retrieval and semantic searc
 
 ### 📫 Find me
 
-- Portfolio: [azrielortega.vercel.app](https://azrielortega.vercel.app/)
 - LinkedIn: [in/azrielortega](https://www.linkedin.com/in/azrielortega/)
